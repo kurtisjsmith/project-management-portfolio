@@ -68,6 +68,14 @@ Publicly available projects adopting the framework will be documented in a proje
 
 Publication status and framework adoption are tracked separately. A public repository does not automatically imply compliance with the latest standard.
 
+## Practical Application
+
+[Framework Application Case Study](CASE_STUDY_FRAMEWORK_ADOPTION.md)
+
+This anonymized case study demonstrates the application of Master Project Management Standard v1.0 to an established software development project.
+
+It documents governance alignment, preservation of historical evidence, acceptance-based verification, and formal milestone closure without disclosing the underlying private repository.
+
 ## Standards Maintenance and Versioning
 
 The Master Project Management Standard is maintained through a controlled review and approval process.
